@@ -119,7 +119,7 @@ fun_fact: I enjoy building things from nothing — code, ideas, or a better appr
 </a>
 </td>
 <td align="center" width="96">
-<a href="https://linkedin.com/in/prajwal-adaki">
+<a href="[https://linkedin.com/in/prajwal-adaki](https://www.linkedin.com/in/prajwaladaki?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
