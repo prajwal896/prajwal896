@@ -26,7 +26,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+##  About Me
 
 ```yaml
 name: Prajwal Adaki
@@ -39,17 +39,17 @@ ask me about: Getting started with development, staying consistent, figuring thi
 fun fact: I enjoy building things from nothing — code, ideas, or a better approach
 ```
 
-- 🔭 I'm currently working on **turning ideas into simple, usable web applications**
-- 🌱 I'm currently learning **full stack development, APIs, and how everything connects under the hood**
-- 👯 I'm looking to collaborate on **projects that solve real problems or push creativity a bit further**
-- 🤝 I'm looking for help with **understanding how good systems are actually designed behind the scenes**
-- 💬 Ask me about **getting started with development, staying consistent, and figuring things out from scratch**
-- 📫 How to reach me: **prajwaladaki999@gmail.com**
-- ⚡ Fun fact: **I enjoy building things from nothing — code, ideas, or even just a better approach**
+-  I'm currently working on **turning ideas into simple, usable web applications**
+-  I'm currently learning **full stack development, APIs, and how everything connects under the hood**
+-  I'm looking to collaborate on **projects that solve real problems or push creativity a bit further**
+-  I'm looking for help with **understanding how good systems are actually designed behind the scenes**
+-  Ask me about **getting started with development, staying consistent, and figuring things out from scratch**
+-  How to reach me: **prajwaladaki999@gmail.com**
+-  Fun fact: **I enjoy building things from nothing — code, ideas, or even just a better approach**
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -91,7 +91,7 @@ fun fact: I enjoy building things from nothing — code, ideas, or a better appr
 
 <br/>
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal896&bg_color=0f0c29&color=00f0ff&line=8b5cf6&point=ffffff&theme=react-dark" width="100%"/>
@@ -99,7 +99,7 @@ fun fact: I enjoy building things from nothing — code, ideas, or a better appr
 
 <br/>
 
-## ✍️ Random Dev Quote
+##  Random Dev Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -107,7 +107,7 @@ fun fact: I enjoy building things from nothing — code, ideas, or a better appr
 
 <br/>
 
-## 📡 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
