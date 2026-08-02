@@ -31,12 +31,12 @@
 ```yaml
 name: Prajwal Adaki
 role: Web Developer
-currently_working_on: Turning ideas into simple, usable web applications
-currently_learning: Full stack development, APIs, and how everything connects under the hood
-looking_to_collaborate_on: Projects that solve real problems or push creativity further
-looking_for_help_with: Understanding how good systems are designed behind the scenes
-ask_me_about: Getting started with development, staying consistent, figuring things out from scratch
-fun_fact: I enjoy building things from nothing — code, ideas, or a better approach
+currently working on: Turning ideas into simple, usable web applications
+currently learning: Full stack development, APIs, and how everything connects under the hood
+looking to collaborate on: Projects that solve real problems or push creativity further
+looking for help with: Understanding how good systems are designed behind the scenes
+ask me about: Getting started with development, staying consistent, figuring things out from scratch
+fun fact: I enjoy building things from nothing — code, ideas, or a better approach
 ```
 
 - 🔭 I'm currently working on **turning ideas into simple, usable web applications**
