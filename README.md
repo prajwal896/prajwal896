@@ -69,8 +69,8 @@ fun fact: I enjoy building things from nothing — code, ideas, or a better appr
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwal896&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal896&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=prajwal896&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=prajwal896&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <br/>
 
@@ -92,7 +92,7 @@ fun fact: I enjoy building things from nothing — code, ideas, or a better appr
 
 <div align="center">
 <a href="https://github.com/prajwal896/gitdecore">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwal896&repo=gitdecore&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=prajwal896&repo=gitdecore&theme=tokyonight&hide_border=true"/>
 </a>
 </div>
 
